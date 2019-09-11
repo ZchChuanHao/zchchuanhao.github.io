@@ -1,0 +1,85 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My cool new Blog</title>
+    <link>http://zchchuanhao.github.io/</link>
+    <description>Recent content on My cool new Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Sep 2019 13:48:12 +0000</lastBuildDate>
+    
+        <atom:link href="http://zchchuanhao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>http://zchchuanhao.github.io/post/</link>
+      <pubDate>Wed, 11 Sep 2019 13:48:12 +0000</pubDate>
+      
+      <guid>http://zchchuanhao.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>http://zchchuanhao.github.io/article/</link>
+      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
+      
+      <guid>http://zchchuanhao.github.io/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://zchchuanhao.github.io/gallery/</link>
+      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
+      
+      <guid>http://zchchuanhao.github.io/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>http://zchchuanhao.github.io/video/</link>
+      <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
+      
+      <guid>http://zchchuanhao.github.io/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audios</title>
+      <link>http://zchchuanhao.github.io/audio/</link>
+      <pubDate>Wed, 01 Nov 2017 16:12:47 +0100</pubDate>
+      
+      <guid>http://zchchuanhao.github.io/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>http://zchchuanhao.github.io/link/</link>
+      <pubDate>Wed, 01 Nov 2017 13:05:27 +0100</pubDate>
+      
+      <guid>http://zchchuanhao.github.io/link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quotes</title>
+      <link>http://zchchuanhao.github.io/quote/</link>
+      <pubDate>Wed, 01 Nov 2017 13:01:14 +0100</pubDate>
+      
+      <guid>http://zchchuanhao.github.io/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codes</title>
+      <link>http://zchchuanhao.github.io/code/</link>
+      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
+      
+      <guid>http://zchchuanhao.github.io/code/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
